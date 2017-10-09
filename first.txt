@@ -1,2 +1,2 @@
 This is first line
-Conflict Word- a new line from cli
+Extra Word- Conflict Word- a new line from cli
