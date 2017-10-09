@@ -1,1 +1,1 @@
-third line
+Git is Awesome!
